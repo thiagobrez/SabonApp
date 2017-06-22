@@ -55,3 +55,18 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.rosa {
+    color: #ed1e79;
+}
+
+.back_rosa {
+    background-color: #ed1e79;
+}
+.back_rosa:hover {
+    background-color: #ff68a9;
+}
+
+.bloco_linha {
+    margin-top: 5%;
+}
