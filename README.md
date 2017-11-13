@@ -1,2 +1,2 @@
 # SabonApp
-Template para atividade da unidade curricular Aspectos Comportamentais do Empreendedor
+Inspirational template for an fictitious soap consumption meter app.
